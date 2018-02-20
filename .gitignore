@@ -1,0 +1,13 @@
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+*.exe
+*.test
+*.prof
+#WebStorm
+*.iml
+
+# mac hidden files
+.DS_Store
+
+
